@@ -1,0 +1,7 @@
+.vscode/
+venv/
+
+pyproject.toml
+.flake8
+*.json
+*.pyc
